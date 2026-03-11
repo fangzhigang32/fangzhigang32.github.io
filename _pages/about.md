@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi~ I’m Zhigang Fang (方志刚), a Ph.D. student at the Electronic Science and Technology Department of the National University of Defense Technology, advised by Prof. Lei Wang and Prof. Renzhi Chen.
+Hi~ I’m Zhigang Fang (方志刚), a Ph.D. student at the Electronic Science and Technology Department of the National University of Defense Technology, advised by Prof. Renzhi Chen and Prof. Lei Wang.
 <hr/>
 
 Research Interests
