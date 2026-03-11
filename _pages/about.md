@@ -14,6 +14,7 @@ Research Interests
 ======
 * LLM4EDA
 * Code Lint
+* Static Code Analysis
 <hr/>
 
 Publication
