@@ -20,7 +20,7 @@ Research Interests
 Publication
 ======
 * [DATE'26](https://past.date-conference.com/proceedings-archive/2026/DATA/504.pdf){: style="background-color:#55acee; color:white; padding:2px 8px; border-radius:4px; text-decoration:none; font-size:14px;"} <span style="color:DarkBlue">EstCoder: A RTL Code Generator based on Static Functional Estimation</span>     
-<span style="color:DimGray; font-size:85%"><u>Qi Xiong</u>, <u>Renzhi Chen</u>,<span style="color:black">**Zhigang Fang**</span>, <u>Bowei Wang</u>,  <u>Yingjie Zhou</u>, <u>Libo Huang</u>, and <u>Lei Wang*</u></span>    
+<span style="color:DimGray; font-size:85%"><u>Qi Xiong</u>, <u>Renzhi Chen</u>, <span style="color:black">**Zhigang Fang**</span>, <u>Bowei Wang</u>,  <u>Yingjie Zhou</u>, <u>Libo Huang</u>, and <u>Lei Wang*</u></span>    
 <span style="font-size:95%">IEEE Design, Automation & Test in Europe Conference (DATE, CCF-B), 2026. *(Acceptance rate=25%)*</span> 
 
 * [ICCD'25](https://doi.org/10.1109/ICCD65941.2025.00087){: style="background-color:#55acee; color:white; padding:2px 8px; border-radius:4px; text-decoration:none; font-size:14px;"} <span style="color:DarkBlue">RTLBench: A Multi-Dimensional Benchmark Suite for Evaluating LLM-Generated RTL Code</span>     
